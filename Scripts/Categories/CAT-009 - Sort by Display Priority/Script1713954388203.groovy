@@ -23,7 +23,7 @@ WebUI.click(findTestObject('Object Repository/Categories/span_Categories'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Categories/text_All Categories'), 20)
 
-//for(int i=1; i<10; i++) {
-//	int xnumber =  i
-//	WebUI.click(findTestObject('Categories/input_Action_pid-13', [('number') : xnumber]), FailureHandling.OPTIONAL)
-//}
+WebUI.click(findTestObject('Categories/button_sort by'))
+
+WebUI.click(findTestObject('Categories/option_Display Priority'))
+
