@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can access Categories page</description>
+   <name>CAT-002 - Create new Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0466f60-3434-49ac-9bf7-32445dad0493</testCaseGuid>
+</TestCaseEntity>

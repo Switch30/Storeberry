@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can access Categories page</description>
+   <name>CAT-009 - Sort by Display Priority</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ffb715f-3d71-4af7-979f-29bbdbf4fa35</testCaseGuid>
+</TestCaseEntity>

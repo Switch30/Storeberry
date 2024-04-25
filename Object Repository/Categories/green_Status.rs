@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>green_Status</name>
+   <tag></tag>
+   <elementGuidId>904cee8f-7013-4876-b5fc-09e5e27925bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td:nth-of-type(6) > span > i.fa.fa.fa-circle.bubble-status-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-products']/table/tbody/tr[2]/td[6]/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0151e28a-0ae5-44f4-9571-ccb5ba7e0e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>654c00b2-8d1d-41c8-aa6f-2795aa4128cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa fa-circle bubble-status-1</value>
+      <webElementGuid>147e46bb-dd8c-4b8b-921f-34b0299655fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-products&quot;)/table[@class=&quot;pure-table pure-table-horizontal&quot;]/tbody[1]/tr[2]/td[6]/span[1]/i[@class=&quot;fa fa fa-circle bubble-status-1&quot;]</value>
+      <webElementGuid>4d423109-5bd4-462e-98ba-9d23fe2c86cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-products']/table/tbody/tr[2]/td[6]/span/i</value>
+      <webElementGuid>0240410a-ae59-40a0-9141-6a3fa02acd66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[6]/span/i</value>
+      <webElementGuid>bfdd4c72-bd55-4f84-9c71-e26faf17870a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

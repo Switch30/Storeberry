@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can access Categories page</description>
+   <name>CAT-006 - Hide in Online platform</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a684a8b2-44aa-47bd-9887-7457b8bc58a3</testCaseGuid>
+</TestCaseEntity>

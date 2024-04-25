@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can access Categories page</description>
+   <name>CAT-004 - Delete Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c91c1602-df2c-473a-a38a-f3b1685a1fff</testCaseGuid>
+</TestCaseEntity>

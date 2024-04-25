@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Welcome to Storeberry</name>
+   <tag></tag>
+   <elementGuidId>332b2763-9aba-400c-9107-8213ee1f26a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-getstart']/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.welcome-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>db3d9d99-e1ce-46e4-9f53-ae89ffb7fe1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>welcome-title</value>
+      <webElementGuid>e747e514-f29f-4fe1-9a73-05dbefc6d73b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome to Storeberry</value>
+      <webElementGuid>08c0a545-2b3c-464a-8f9a-e80959549718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-getstart&quot;)/h3[@class=&quot;welcome-title&quot;]</value>
+      <webElementGuid>c5719d40-8fb4-4b00-a2f5-8fa08f5b0fbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-getstart']/h3</value>
+      <webElementGuid>a20d0e21-fb03-4664-a587-fe34b4e525ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('What', &quot;'&quot;, 's new')])[2]/following::h3[1]</value>
+      <webElementGuid>94cb248d-8b43-458e-843f-64587bb6c478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('What', &quot;'&quot;, 's new')])[1]/following::h3[1]</value>
+      <webElementGuid>fda6fcd1-6176-4f1e-9861-bde44a66d23f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You added the first product!'])[1]/preceding::h3[1]</value>
+      <webElementGuid>364a719b-945f-4350-bf69-c5e53e3fcc96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add more products to fulfill your shop, you can find tips here.'])[1]/preceding::h3[1]</value>
+      <webElementGuid>2be37350-4f1a-429e-a300-81de31a1402a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Welcome to Storeberry']/parent::*</value>
+      <webElementGuid>0473b841-9d24-4765-826b-272d15056e34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>953b5e98-37a4-4c87-9604-d4bb2c6ccbad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Welcome to Storeberry' or . = 'Welcome to Storeberry')]</value>
+      <webElementGuid>b4acf1e8-083d-428e-8b4e-6976de6b9c34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

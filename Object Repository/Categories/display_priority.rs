@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>display_priority</name>
+   <tag></tag>
+   <elementGuidId>06d14c74-4930-4ff4-9871-6e56453fb462</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(7)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-products']/table/tbody/tr/td[7]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app-products&quot;)/table[@class=&quot;pure-table pure-table-horizontal&quot;]/tbody[1]/tr[${tr}]/td[7][count(. | //*[(text() = '${disPriority}' or . = '${disPriority}')]) = count(//*[(text() = '${disPriority}' or . = '${disPriority}')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>2b4a3f51-6f3d-4fec-b2ea-7932ac8aff84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${disPriority}</value>
+      <webElementGuid>d3aee360-412b-4971-a055-578d7649227f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-products&quot;)/table[@class=&quot;pure-table pure-table-horizontal&quot;]/tbody[1]/tr[${tr}]/td[7]</value>
+      <webElementGuid>14ffc885-7d2c-41a6-82c1-41c6faa67170</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-products']/table/tbody/tr/td[7]</value>
+      <webElementGuid>1b31f3ef-c50d-4e58-95a3-53e35bec6b7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Retail'])[1]/following::td[1]</value>
+      <webElementGuid>da88b9fe-b001-42e4-a818-df3519e63fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[1]/following::td[1]</value>
+      <webElementGuid>c9fa873b-015c-4a1e-ac09-49d42b370439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/preceding::td[1]</value>
+      <webElementGuid>07196278-bf71-49a1-9aab-d661f72e2a15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category 1'])[1]/preceding::td[4]</value>
+      <webElementGuid>060e1d16-df5e-4a29-82b5-ca36306e4a7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='0']/parent::*</value>
+      <webElementGuid>9ca3d072-cce3-42a1-b9d8-05e07cfbf9c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]</value>
+      <webElementGuid>77cc3059-66c6-4d04-a9d6-110e034a6bdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '0' or . = '0')]</value>
+      <webElementGuid>62fbaad5-8864-435f-ac83-4842d2f5a68c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
